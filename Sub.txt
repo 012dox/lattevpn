@@ -246,7 +246,7 @@ vless://0509acee-63e3-4364-95cc-21c601f059be@185.254.99.241:443?encryption=none&
 vless://0509acee-63e3-4364-95cc-21c601f059be@185.254.99.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4#🇷🇺 Обход Глушилок
 vless://0509acee-63e3-4364-95cc-21c601f059be@194.9.6.29:443?security=reality&flow=xtls-rprx-vision&sni=booking.com&type=tcp&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4#🇷🇺 Обход Глушилок
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?flow=xtls-rprx-vision&fp=firefox&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sid=&sni=booking.com&type=tcp#🇷🇺 Обход Глушилок
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.164:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=booking.com&fp=chrome&security=reality&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sid=#🇷🇺 Обход Глушилок
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.164:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4#🇷🇺 Обход Глушилок
 vless://0509acee-63e3-4364-95cc-21c601f059be@squad-2-de.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sni=booking.com&type=tcp#🇷🇺 Обход Глушилок
 vless://0509acee-63e3-4364-95cc-21c601f059be@squad-2-de.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&type=tcp#🇷🇺 Обход Глушилок
 vless://0509acee-63e3-4364-95cc-21c601f059be@squad-2-de.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#🇷🇺 Обход Глушилок
@@ -541,7 +541,6 @@ vless://299ee660-0ad5-4366-9b34-f4bb51eb73ee@147.45.178.107:443?security=reality
 vless://299ee660-0ad5-4366-9b34-f4bb51eb73ee@194.87.216.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇷🇺 Обход Глушилок
 vless://299ee660-0ad5-4366-9b34-f4bb51eb73ee@194.87.216.140:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🇷🇺 Обход Глушилок
 vless://299ee660-0ad5-4366-9b34-f4bb51eb73ee@45.95.233.133:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇷🇺 Обход Глушилок
-vless://2a22a18b-c6d1-4bac-84d7-24f8acb86a2b@51.250.86.241:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇷🇺 Обход Глушилок
 vless://2a22a18b-c6d1-4bac-84d7-24f8acb86a2b@84.201.172.12:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=travel.yandex.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#🇷🇺 Обход Глушилок
 vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sni=alfabank.ru&sid=00e7#🇷🇺 Обход Глушилок
 vless://2a8391ef-383c-4321-ac25-89b50973ab73@217.154.38.156:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w&sid=2e0f&spx=%2F#🇷🇺 Обход Глушилок
@@ -755,7 +754,6 @@ vless://42191252-2937-404a-a982-04519c71e26a@5.188.115.11:443?flow=xtls-rprx-vis
 vless://42191252-2937-404a-a982-04519c71e26a@5.188.115.15:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=/#🇷🇺 Обход Глушилок
 vless://42191252-2937-404a-a982-04519c71e26a@5.188.115.15:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=/#🇷🇺 Обход Глушилок
 vless://42191252-2937-404a-a982-04519c71e26a@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=%2F#🇷🇺 Обход Глушилок
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F#🇷🇺 Обход Глушилок
 vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=/#🇷🇺 Обход Глушилок
 vless://42191252-2937-404a-a982-04519c71e26a@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=/#🇷🇺 Обход Глушилок
 vless://42191252-2937-404a-a982-04519c71e26a@84.201.135.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=/#🇷🇺 Обход Глушилок
@@ -1158,10 +1156,8 @@ vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type
 vless://597923cd-1877-495f-9413-d0dfbd166c14@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=2d8dc1a8a7fe&sni=www.microsoft.com#🇷🇺 Обход Глушилок
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@95.163.210.225:8443?encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%2C%22scStreamUpServerSecs%22%3A%2230-90%22%7D&mode=auto&path=%2Fapi%2Fv2%2Fupdates&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&security=reality&sni=01.img.avito.st&type=xhttp#🇷🇺 Обход Глушилок
 vless://5a1c066d-e0f4-4308-9e46-5192070f22bc@146.185.243.232:1695?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.vk.com&pbk=zuriBhTMmp_RZj4FgG8X3504Af_08niWYWQiwoevSiA&sid=da41fe77cd9c767d#🇷🇺 Обход Глушилок
-vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.103.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0#🇷🇺 Обход Глушилок
 vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.103.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0#🇷🇺 Обход Глушилок
 vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.31.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arthemis-recuperation.com&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0&type=tcp&headerType=none#🇷🇺 Обход Глушилок
-vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@84.201.154.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA#🇷🇺 Обход Глушилок
 vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@84.201.154.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=3Sv23xq-91ymYjcCOXEBkQ-CRRC-KiB0PMNxjfehuHA#🇷🇺 Обход Глушилок
 vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@84.201.155.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-21.userapi.com&pbk=CtX82DkTEpR5mNMPTpCHf2tkodeEDTjarulWEUUh4gY#🇷🇺 Обход Глушилок
 vless://5ac98ff9-c465-4dae-aa67-7b91de454029@158.160.202.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#🇷🇺 Обход Глушилок
@@ -1570,6 +1566,7 @@ vless://8ce5e3b8-5663-4f44-afc6-88813e674cca@95.85.224.28:443?flow=xtls-rprx-vis
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=%2F#🇷🇺 Обход Глушилок
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=%2F#🇷🇺 Обход Глушилок
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=%2F#🇷🇺 Обход Глушилок
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F#🇷🇺 Обход Глушилок
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.94.162:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sni=api-maps.yandex.ru&sid=c8597fb67d55d9c4&spx=%2F#🇷🇺 Обход Глушилок
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=%2F#🇷🇺 Обход Глушилок
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.94.162:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c8597fb67d55d9c4#🇷🇺 Обход Глушилок
@@ -2438,7 +2435,6 @@ vless://f136f870-1d42-41cb-9c3c-dba439020a80@212.233.120.154:5443?type=tcp&secur
 vless://f1449968-0329-468b-b56b-1c573ac2a767@144.31.4.136:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺 Обход Глушилок
 vless://f1449968-0329-468b-b56b-1c573ac2a767@46.243.233.78:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=sun6-21.userapi.com&type=tcp#🇷🇺 Обход Глушилок
 vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.5.6:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺 Обход Глушилок
-vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.5.6:8081?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=ads.x5.ru#🇷🇺 Обход Глушилок
 vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.75.255:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺 Обход Глушилок
 vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.75.255:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=&fp=chrome&type=tcp&sni=eh.vk.com&sid=425ba80cd1a821a8#🇷🇺 Обход Глушилок
 vless://f17749e1-970b-4d98-a2e8-ed13c3ec262d@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=c1edc5a10cdb&sni=www.microsoft.com#🇷🇺 Обход Глушилок
@@ -2615,8 +2611,8 @@ vless://26524cce-d514-4014-a426-365fb266a14d@cloudflare.seeck.cn:2053?security=t
 vless://26524cce-d514-4014-a426-365fb266a14d@cloudflare.seeck.cn:2053?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=snippet.fgfw.eu.org&sni=snippet.fgfw.eu.org&fp=chrome#🇪🇪 LatteVpn
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&type=ws#🇪🇪 LatteVpn
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169:50001#🇪🇪 LatteVpn
-vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?encryption=none&security=tls&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http/1.1&fp=chrome&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=/391sfnZ2bBhmKb8nOkg&packetEncoding=xudp#🇪🇪 LatteVpn
 vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?encryption=none&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=%2F391sfnZ2bBhmKb8nOkg&security=tls&alpn=http%2F1.1&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in#🇪🇪 LatteVpn
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇪🇪 LatteVpn
 vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.96.3:443?encryption=none&type=ws&security=tls&path=/391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http/1.1#🇪🇪 LatteVpn
 vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇪🇪 LatteVpn
 vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=/391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http/1.1#🇪🇪 LatteVpn
@@ -3202,7 +3198,6 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?security=tls&sni=www
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#🇸🇪 LatteVpn
 trojan://fsJC%3Ca%292Atn;@104.18.8.232:2086?ed=2560&eh=Sec-WebSocket-Protocol&host=hamedp71.123hp.workers.dev&path=%2FeyJqdW5rIjoidm1qTWdrQzQxTyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&type=ws#🇸🇪 LatteVpn
 trojan://humanity@104.17.131.88:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🇸🇪 LatteVpn
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🇸🇪 LatteVpn
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇸🇪 LatteVpn
 trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇸🇪 LatteVpn
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇸🇪 LatteVpn
@@ -3260,7 +3255,7 @@ vless://00000000-0000-4000-8000-000000000000@223.222.213.164:14238?&security=tls
 vless://00000000-0000-4000-8000-000000000000@45.145.42.170:8005?security=tls&type=ws&path=%2F&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com&fp=chrome#🇸🇪 LatteVpn
 vless://00000000-0000-4000-8000-000000000000@51.195.254.49:20205?security=tls&type=ws&path=%2F&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com&fp=chrome#🇸🇪 LatteVpn
 vless://00000000-0000-4000-8000-000000000000@89.208.97.165:3000?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#🇸🇪 LatteVpn
-vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇸🇪 LatteVpn
+vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&type=ws&security=tls&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6&host=aaassd.222560.xyz&sni=aaassd.222560.xyz#🇸🇪 LatteVpn
 vless://00a9b792-2bb4-437b-9228-565c1c994f1c@aaassd.222560.xyz:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇸🇪 LatteVpn
 vless://00a9b792-2bb4-437b-9228-565c1c994f1c@ddffgg.222560.xyz:443?encryption=none&security=tls&sni=ddffgg.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=ddffgg.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇸🇪 LatteVpn
 vless://00a9b792-2bb4-437b-9228-565c1c994f1c@ghyu.huangzi.cfd:443?encryption=none&type=ws&host=ghyu.huangzi.cfd&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6&security=tls#🇸🇪 LatteVpn
@@ -3372,7 +3367,7 @@ vless://221ab711-b458-4044-b9d9-d2f027e5a4e8@xhtpipw.gfdv54cvghhgfhgj-njhgj64.in
 vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?allowInsecure=1&encryption=none&host=do88.cmddo.ggff.net&path=/&security=tls&sni=do88.cmddo.ggff.net&type=ws#🇸🇪 LatteVpn
 vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?encryption=none&type=ws&host=do88.cmddo.ggff.net&path=%2F&security=tls&sni=do88.cmddo.ggff.net#🇸🇪 LatteVpn
 vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?encryption=none&type=ws&security=tls&host=do88.cmddo.ggff.net&sni=do88.cmddo.ggff.net#🇸🇪 LatteVpn
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?encryption=none&type=xhttp&security=none&host=s4.nakosgol.com&path=/pabloping&mode=auto&extra=null#🇸🇪 LatteVpn
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?encryption=none&type=xhttp&security=none&host=s4.nakosgol.com&path=%2Fpabloping&mode=auto&extra=null#🇸🇪 LatteVpn
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=&encryption=none&host=s4.nakosgol.com&type=xhttp#🇸🇪 LatteVpn
 vless://2292ece4-fccf-42af-9673-61e60eb79c51@45.144.51.164:443?encryption=none&type=raw&headerType=none&security=none#🇸🇪 LatteVpn
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=/&security=none&type=ws#🇸🇪 LatteVpn
@@ -3667,7 +3662,6 @@ vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@yg1.ygkkk.dpdns.org:8880/?encryptio
 vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@yg1.ygkkk.dpdns.org:8880?encryption=none&type=ws&host=hmedrza.ghwhdr51.workers.dev&path=%2F%1F512&security=none#🇸🇪 LatteVpn
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.16.250.22:443?encryption=none&type=ws&security=tls&path=%2Fdb10248afdcb0daf&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇸🇪 LatteVpn
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.17.25.173:443?encryption=none&type=ws&security=tls&path=%2Fdb10248afdcb0daf&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇸🇪 LatteVpn
-vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.18.185.26:443?encryption=none&type=ws&security=tls&path=%2Fdb10248afdcb0daf&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇸🇪 LatteVpn
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.18.185.26:443?encryption=none&type=ws&security=tls&path=/db10248afdcb0daf&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3,h2#🇸🇪 LatteVpn
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.21.224.5:443?encryption=none&type=ws&security=tls&path=%2Fdb10248afdcb0daf&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇸🇪 LatteVpn
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.21.227.134:443?encryption=none&type=ws&security=tls&path=%2Fdb10248afdcb0daf&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇸🇪 LatteVpn
@@ -3696,11 +3690,15 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?type=ws&security=
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇸🇪 LatteVpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇸🇪 LatteVpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 LatteVpn
@@ -3755,7 +3753,7 @@ vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&t
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&type=ws&security=none&path=%2Fvless&host=www.ptnk.sry-vpn.com#🇸🇪 LatteVpn
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&host=www.ptnk.sry-vpn.com&path=/vless&security=none&type=ws#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.18.185.26:443?encryption=none&security=tls&sni=nmj.1x0.indevs.in&type=ws&host=nmj.1x0.indevs.in&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO#🇸🇪 LatteVpn
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bfbg.2nn.ccwu.cc&sni=bfbg.2nn.ccwu.cc#🇸🇪 LatteVpn
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bnjui.2nn.ccwu.cc&fp=chrome&sni=bnjui.2nn.ccwu.cc#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nnmkl.2nn.ccwu.cc#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.26.122:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmju.1jj.ccwu.cc#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.41.29:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bgn.1dd.ccwu.cc#🇸🇪 LatteVpn
@@ -3766,7 +3764,7 @@ vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.155.243:80?encryption=none&t
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.155.243:80?encryption=none&type=ws&security=none&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&host=mkii.1x4.indevs.in#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.159.58:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bgn.1dd.ccwu.cc#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.195.13:80?security=none&sni=mkiuy.1x9.indevs.in&type=ws&host=mkiuy.1x9.indevs.in&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&fp=chrome#🇸🇪 LatteVpn
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bfbg.2nn.ccwu.cc&sni=bfbg.2nn.ccwu.cc#🇸🇪 LatteVpn
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=yyynm.2nn.ccwu.cc&sni=yyynm.2nn.ccwu.cc#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nnmkl.2nn.ccwu.cc#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bfbg.2nn.ccwu.cc:443?host=bfbg.2nn.ccwu.cc&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&security=tls&sni=bfbg.2nn.ccwu.cc&type=ws#🇸🇪 LatteVpn
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bghy.1xq.indevs.in:443?fp=chrome&host=bghy.1xq.indevs.in&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&security=tls&sni=bghy.1xq.indevs.in&type=ws#🇸🇪 LatteVpn
@@ -4560,8 +4558,8 @@ vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&se
 vless://70035da7-d67f-4b7b-8108-fdcf1ed70b9f@time.is:443?encryption=none&type=ws&host=mkws4ri8y912gft3c2clmyf9xxbsidhjbx39wlwslnjr6plby52vtp2gik.hdbyuilfocra2cn52esg.workers.dev&path=%2FeyJqdW5rIjoiYWxDYkRwUnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=Mkws4ri8Y912Gft3c2cLMyf9XxBsIdHjbx39wLWslnjr6PLBY52vTP2gIk.HdbyuilFOCRa2CN52EsG.WOrkErs.DEv#🇸🇪 LatteVpn
 vless://70035da7-d67f-4b7b-8108-fdcf1ed70b9f@time.is:443?path=%2FeyJqdW5rIjoiYWxDYkRwUnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mkws4ri8y912gft3c2clmyf9xxbsidhjbx39wlwslnjr6plby52vtp2gik.hdbyuilfocra2cn52esg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Mkws4ri8Y912Gft3c2cLMyf9XxBsIdHjbx39wLWslnjr6PLBY52vTP2gIk.HdbyuilFOCRa2CN52EsG.WOrkErs.DEv#🇸🇪 LatteVpn
 vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.56.168:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=yhj.iran2026.indevs.in&sni=yhj.iran2026.indevs.in#🇸🇪 LatteVpn
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.87.37:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇸🇪 LatteVpn
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.140.119:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇸🇪 LatteVpn
+vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.87.37:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&sni=ui.huangshang.indevs.in#🇸🇪 LatteVpn
+vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.140.119:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&sni=ui.huangshang.indevs.in#🇸🇪 LatteVpn
 vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.153.222:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=yhj.iran2026.indevs.in&sni=yhj.iran2026.indevs.in#🇸🇪 LatteVpn
 vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@188.114.96.3:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&sni=ui.huangshang.indevs.in#🇸🇪 LatteVpn
 vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇸🇪 LatteVpn
@@ -4592,7 +4590,7 @@ vless://761de185-8b90-407c-89ad-6be8d880f6f8@162.159.45.26:443?encryption=none&t
 vless://761de185-8b90-407c-89ad-6be8d880f6f8@bestcf.030101.xyz:443?encryption=none&security=tls&sni=xrqj.pages.dev&insecure=0&allowInsecure=0&type=ws&host=xrqj.pages.dev&path=%2Fclass%2Fsale%3Fed%3D2560#🇸🇪 LatteVpn
 vless://77777777-6663-4ef2-b26b-ed2d70642678@104.18.42.163:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=8fbxjhscv17.fx02.ccwu.cc&sni=8fbxjhscv17.fx02.ccwu.cc#🇸🇪 LatteVpn
 vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=afxmsv51.fx02.ccwu.cc&sni=afxmsv51.fx02.ccwu.cc#🇸🇪 LatteVpn
-vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.93:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=8fbxjhscv17.fx02.ccwu.cc&sni=8fbxjhscv17.fx02.ccwu.cc#🇸🇪 LatteVpn
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.93:2087?encryption=none&type=ws&security=tls&path=%2F&host=8fbxjhscv17.fx02.ccwu.cc&sni=8fbxjhscv17.fx02.ccwu.cc#🇸🇪 LatteVpn
 vless://77777777-6663-4ef2-b26b-ed2d70642678@cf.9999669.xyz:2087?&security=tls&fp=chrome&sni=hfnb8xmvw3h14.fx02.ccwu.cc&type=ws&headerType=none&host=hfnb8xmvw3h14.fx02.ccwu.cc&path=%2F%3Fed%3D2560#🇸🇪 LatteVpn
 vless://77777777-6663-4ef2-b26b-ed2d70642678@mfa.gov.ua:2087?&security=tls&sni=fx7evx71.fx02.ccwu.cc&type=ws&headerType=none&host=fx7evx71.fx02.ccwu.cc&path=%2F%3Fed%3D2560#🇸🇪 LatteVpn
 vless://77777777-6663-4ef2-b26b-ed2d70642678@www.shopify.com:2087?&security=tls&sni=8fbxjhscv17.fx02.ccwu.cc&type=ws&headerType=none&host=8fbxjhscv17.fx02.ccwu.cc&path=%2F%3Fed%3D2560#🇸🇪 LatteVpn
@@ -5073,7 +5071,6 @@ vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052?encryption=non
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?encryption=none&type=ws&host=yousef.varzesh.dpdns.org&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=yousef.varzesh.dpdns.org#🇸🇪 LatteVpn
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.19.250.98:2083?&security=tls&fp=chrome&sni=yousef.varzesh.dpdns.org&type=ws&headerType=none&host=yousef.varzesh.dpdns.org&path=%2F%3Fed%3D2560#🇸🇪 LatteVpn
 vless://cff35335-31c1-4f2c-8df3-2b81243a31ac@dxscvfgt.0oy.ccwu.cc:443?encryption=none&type=ws&host=dxscvfgt.0oy.ccwu.cc&path=%2F0Z2zREJxNcweCiw4wIIiqp&security=tls#🇸🇪 LatteVpn
-vless://ci49kfwjrc@104.21.17.104:8880?encryption=none&security=none&type=xhttp&host=ci49kfwjrc-57129121185.hediiigate.com&path=%2Fcompass%2Fcdn%2F%3F&mode=auto#🇸🇪 LatteVpn
 vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇸🇪 LatteVpn
 vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@104.21.52.191:443?encryption=none&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=%2FeyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&security=tls&fp=chrome&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev#🇸🇪 LatteVpn
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#🇸🇪 LatteVpn
@@ -5132,6 +5129,8 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?encryption=none&
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?encryption=none&type=ws&security=tls&path=%2F&host=ir1.airpanel.top&sni=ir1.airpanel.top#🇸🇪 LatteVpn
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip1.kaixincloud.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=%2F#🇸🇪 LatteVpn
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.16.250.22:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome#🇸🇪 LatteVpn
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.18.185.26:443?encryption=none&type=ws&security=tls&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&host=apii.onlineshoppingez.ir&fp=chrome&sni=apii.onlineshoppingez.ir#🇸🇪 LatteVpn
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&host=apii.onlineshoppingez.ir&fp=chrome&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1#🇸🇪 LatteVpn
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?encryption=none&type=ws&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir#🇸🇪 LatteVpn
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?encryption=none&type=ws&security=tls&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&host=apii.onlineshoppingez.ir&sni=apii.onlineshoppingez.ir#🇸🇪 LatteVpn
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443?encryption=none&type=ws&security=tls&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&host=apii.onlineshoppingez.ir&fp=chrome&sni=apii.onlineshoppingez.ir#🇸🇪 LatteVpn
@@ -5184,6 +5183,7 @@ vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s703.okgfw.top:443?encryption=none&
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s725.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s725.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u710297ua16es725.ccgfw.top&serviceName=&mode=&alpn=#🇸🇪 LatteVpn
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s726.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s726.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u710297u5534s726.ccgfw.top&serviceName=&mode=&alpn=#🇸🇪 LatteVpn
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s736.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s736.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u710297u833ds736.ccgfw.top&serviceName=&mode=&alpn=#🇸🇪 LatteVpn
+vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?encryption=none&type=xhttp&security=none&host=ci49kfwjrc-57129121185.hediiigate.com&path=%2Fcompass%2Fcdn%2F%3F&mode=auto&extra=null#🇸🇪 LatteVpn
 vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@172.67.175.118:8880?encryption=none&type=xhttp&security=none&host=ci49kfwjrc-57129121185.hediiigate.com&path=%2Fcompass%2Fcdn&mode=auto&extra=null#🇸🇪 LatteVpn
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&type=ws&host=britain.xydcqd.workers.dev&path=/@WireXnet?ed=2048&security=none#🇸🇪 LatteVpn
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇸🇪 LatteVpn
@@ -5640,6 +5640,7 @@ vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?encryption=none
 vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#🇷🇺 LatteVpn
 vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#🇷🇺 LatteVpn
 vless://10a4c929-0643-03e8-9b89-0b823adaa2a8@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 LatteVpn
+vless://10a4c929-0643-07d0-9b89-0b823adaa2a8@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 LatteVpn
 vless://10a4c929-0643-07d0-9b89-0b823adaa2a8@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#🇷🇺 LatteVpn
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?encryption=none&security=none&type=ws&host=m.vk.com&path=%2Fpanika#🇷🇺 LatteVpn
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇷🇺 LatteVpn
