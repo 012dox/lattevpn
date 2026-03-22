@@ -53,6 +53,7 @@ trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chr
 trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇷🇺 YouTube Без Рекламы
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇷🇺 YouTube Без Рекламы
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=/assignment#🇷🇺 YouTube Без Рекламы
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=/assignment#🇷🇺 YouTube Без Рекламы
 trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇷🇺 YouTube Без Рекламы
 trojan://humanity@v3.dabache.top:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇷🇺 YouTube Без Рекламы
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#🇷🇺 YouTube Без Рекламы
@@ -4495,7 +4496,6 @@ vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&type=ws&security=tls&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&host=azadnet-1ml.pages.dev&fp=randomized&sni=azadnet-1ml.pages.dev#🇸🇪 LatteVpn
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#🇸🇪 LatteVpn
 vless://d082b5e0-2435-4599-b935-d2c2b70beb67@188.114.96.3:443?encryption=none&type=ws&security=tls&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&fp=chrome&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1#🇸🇪 LatteVpn
-vless://d082b5e0-2435-4599-b935-d2c2b70beb67@188.114.96.3:443?encryption=none&type=ws&security=tls&path=%2F&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&fp=chrome&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev#🇸🇪 LatteVpn
 vless://d082b5e0-2435-4599-b935-d2c2b70beb67@188.114.97.3:443?encryption=none&type=ws&security=tls&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&fp=chrome&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1#🇸🇪 LatteVpn
 vless://d082b5e0-2435-4599-b935-d2c2b70beb67@cloudflare-ip.mofashi.ltd:443?encryption=none&type=ws&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev#🇸🇪 LatteVpn
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@162.159.141.147:443?encryption=none&type=ws&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg#🇸🇪 LatteVpn
