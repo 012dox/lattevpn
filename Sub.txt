@@ -1,7 +1,5 @@
 vless://52b202f9-493d-4b52-a656-64637f36afa7@158.160.171.90:443?type=ws&security=tls&fp=firefox&sni=cloudflare.vhub.pro#🇷🇺 YouTube Без Рекламы
 vless://52b202f9-493d-4b52-a656-64637f36afa7@158.160.196.224:443?type=ws&security=tls&fp=firefox&sni=cloudflare.vhub.pro#🇷🇺 YouTube Без Рекламы
-vless://52b202f9-493d-4b52-a656-64637f36afa7@46.254.18.27:443?type=ws&security=tls&fp=firefox&sni=cloudflare.vhub.pro#🇷🇺 YouTube Без Рекламы
-vless://9b4ba157-f60b-4a5b-b326-4d561eb826d4@194.26.229.209:4100?type=ws&sni=live.ok.ru#🇷🇺 YouTube Без Рекламы
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@170.114.45.239:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=%2Fhdgrbws&fp=chrome#🇷🇺 YouTube Без Рекламы
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@170.114.45.239:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=%2Fhdgrbws&fp=firefox#🇷🇺 YouTube Без Рекламы
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=%2Fhdgrbws&fp=firefox#🇷🇺 YouTube Без Рекламы
@@ -1453,6 +1451,7 @@ vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.151.62.156:7443?type=grpc&securi
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.165.181:7443?security=reality&type=tcp&sni=kleinanzeigen.de&pbk=whjFaQUOWE6n1r89kfjPVeJtut_b_YD3YnfRtpC4QEU&sid=0782f882&spx=%2F&encryption=none&fp=chrome#🇷🇺 Обход Глушилок
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.8.220.182:443?encryption=none&fp=firefox&mode=gun&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=reality&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc#🇷🇺 Обход Глушилок
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.8.220.182:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@VPNine1&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&fp=chrome&type=grpc&serviceName=grpc&sni=media2.tcpdoor.net&sid=3303c7a5#🇷🇺 Обход Глушилок
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.8.221.218:443?encryption=none&fp=edge&mode=gun&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=reality&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc#🇷🇺 Обход Глушилок
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@89.125.76.140:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Z22m3SU-sV639Bdnchaz6Xe9px7TEl9IcqQR02tFgDA&sid=15e86cec&sni=se12.tcpnet.fun#🇷🇺 Обход Глушилок
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@92.38.153.96:443?encryption=none&type=raw&security=reality&fp=chrome&sni=sun6-20.userapi.com&pbk=YlTuZAJgyqZ6gmKKTbtR0TZvFsXeozca_bs0tqIXtys&sid=920d0959#🇷🇺 Обход Глушилок
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@95.85.247.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=4-bYlfzBxbmfxZa5uFAobphk74V83FF5Y1lbo9l8RWQ&sid=50c30ab7&sni=cats.abvphelp.cc&spx=/#🇷🇺 Обход Глушилок
@@ -8966,6 +8965,7 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?type=ws&security=tls&
 vless://4e7eb9d5-022a-4b0a-ba37-2d1be458947b@31.77.203.95:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&security=none&path=/#🇫🇮 LatteVpn
 vless://5083f498-4894-4c81-8648-40a2faf4b545@v2.vhub.pro:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=v2.vhub.pro&type=ws&headerType=none&host=v2.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#🇫🇮 LatteVpn
 vless://52b202f9-493d-4b52-a656-64637f36afa7@158.160.57.2:443?encryption=none&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560&security=tls&fp=firefox&sni=cloudflare.vhub.pro#🇫🇮 LatteVpn
+vless://52b202f9-493d-4b52-a656-64637f36afa7@46.254.18.27:443?encryption=none&fp=firefox&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#🇫🇮 LatteVpn
 vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&fp=firefox&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#🇫🇮 LatteVpn
 vless://5361a986-91b9-4756-a78c-103261128d83@194.76.18.220:2082?security=none&amp;type=httpupgrade&amp;host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&amp;path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2082#🇫🇮 LatteVpn
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.243.151:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=de151.mechvpn.online#🇫🇮 LatteVpn
@@ -10929,6 +10929,7 @@ vless://9ab4c043-dc1a-403b-b8a4-b9ddb1616e8d@191.40.4.7:40359?encryption=none&se
 vless://9aef9fc7-f901-4234-d8f5-f5980fb664d2@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#🇸🇪 LatteVpn
 vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.170.53:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=summer-snow-c151.320-3ef.workers.dev&packetEncoding=xudp#🇸🇪 LatteVpn
 vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=summer-snow-c151.320-3ef.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇸🇪 LatteVpn
+vless://9b4ba157-f60b-4a5b-b326-4d561eb826d4@194.26.229.209:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇸🇪 LatteVpn
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@104.16.107.139:8880?&security=false&fp=chrome&type=ws&headerType=none&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 LatteVpn
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@104.16.107.139:8880?encryption=none&security=none&type=ws&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip#🇸🇪 LatteVpn
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@162.159.156.214:8880?&security=false&fp=chrome&type=ws&headerType=none&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 LatteVpn
@@ -13014,7 +13015,6 @@ vless://767b6340-96dc-4aa0-8013-a8af7513d920@russia.com:2087?fp=random&host=c7da
 vless://767d750a-065a-4908-8447-a1ad35b7c62f@5.129.206.54:989?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#🇷🇺 LatteVpn
 vless://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200?encryption=none&amp;type=ws&amp;security=none&amp;path=%2Fv1&amp;host=rzd.ru#🇷🇺 LatteVpn
 vless://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺 LatteVpn
-vless://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200?path=%2Fv1&sni=rzd.ru&type=ws#🇷🇺 LatteVpn
 vless://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 LatteVpn
 vless://78eb741d-579e-4738-b647-9a850646060f@185.147.27.164:8443?security=tls&encryption=none&sni=user-6a7eb845.noooo.win&fp=firefox&flow=xtls-rprx-vision#🇷🇺 LatteVpn
 vless://78eb741d-579e-4738-b647-9a850646060f@185.147.27.165:8443?security=tls&encryption=none&sni=user-6a7eb845.noooo.win&fp=firefox&flow=xtls-rprx-vision#🇷🇺 LatteVpn
