@@ -4139,7 +4139,7 @@ vless://69d5a816-7b57-4f5b-8b77-1d10a950a554@84.201.157.100:443?type=tcp&securit
 vless://69f56e4d-6403-48c4-876d-16a5819c3672@45.85.93.92:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QZDU9ZZt6HEIijqRyeyebLxt11S692nSBIDNCKLBM3k&sid=f5420efbe305d354&sni=free.ch1.laodavip.com#🇷🇺 Обход Глушилок
 vless://69f56e4d-6403-48c4-876d-16a5819c3672@free.ch1.laodavip.com:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=QZDU9ZZt6HEIijqRyeyebLxt11S692nSBIDNCKLBM3k&sid=f5420efbe305d354&sni=free.ch1.laodavip.com&servername=free.ch1.laodavip.com&spx=%2F&fp=chrome#🇷🇺 Обход Глушилок
 vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:5000?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs&sni=www.vk.com&sid=360e#🇷🇺 Обход Глушилок
-vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:5000?security=reality&type=tcp&packetEncoding=xudp&sni=www.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=360e&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs#🇷🇺 Обход Глушилок
+vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:5000?security=reality&type=raw&packetEncoding=xudp&sni=www.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=360e&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs#🇷🇺 Обход Глушилок
 vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:5000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs&sid=360e&sni=www.vk.com&spx=/Z6qxGGgHtkdLzlM#🇷🇺 Обход Глушилок
 vless://6a29a79c-9807-48da-9f7f-5d2e085392a3@145.249.109.183:38971?security=reality&encryption=none&pbk=NQdNdh_nLXsrNtOAq6yHUyEk7SypYgg80B-TacLSVj0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=72fe07f24a45e9f6#🇷🇺 Обход Глушилок
 vless://6a467642-9488-405a-96d5-c43dff70d35b@109.69.218.209:443?security=reality&flow=xtls-rprx-vision&sni=digital.try-me.store&type=tcp&fp=chrome&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0#🇷🇺 Обход Глушилок
@@ -13173,6 +13173,7 @@ vless://201e2dc7-0f97-486a-a0d0-d69624c96edd@95.129.236.252:443?type=ws&security
 vless://203d4106-d91a-4a7c-aef7-9d98f11cc6c9@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 LatteVpn
 vless://207f4663-3f98-4c18-b363-9b07aa4020a7@95.129.236.252:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fapi%2Fv2%2Fvms%2Fstream%2Fgenka&security=tls&sni=benzin.benz.ink&type=ws#🇷🇺 LatteVpn
 vless://2087dfd0-2834-41b9-b0a8-8193115161bf@185.247.16.117:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺 LatteVpn
+vless://215c2b34-6371-49c7-a90d-39a4fe5191c0@200.165.228.78:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺 LatteVpn
 vless://215c2b34-6371-49c7-a90d-39a4fe5191c0@200.165.228.78:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🇷🇺 LatteVpn
 vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 LatteVpn
 vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&packetEncoding=xudp#🇷🇺 LatteVpn
